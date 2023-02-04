@@ -3,5 +3,6 @@
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
     <output>test</output>
+    <output>test2</output>
   </component>
 </project>
